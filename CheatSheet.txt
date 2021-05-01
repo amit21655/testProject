@@ -1,21 +1,5 @@
 TEXT
 
 I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
-I want this to be in version 2
+
 I want this to be in version 2
